@@ -1,0 +1,7 @@
+__pycache__/
+
+pyproject.toml
+
+server_files/
+
+client_files/
